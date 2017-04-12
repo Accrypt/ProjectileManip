@@ -1,0 +1,4 @@
+name: ProjectileManip
+version: 0.1
+main: io.mzb.ProjectileManip.ProjectileManip
+authors: [Minezbot]
